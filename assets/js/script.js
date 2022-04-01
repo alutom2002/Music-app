@@ -25,44 +25,44 @@ const app = {
     songs: [{
             name: 'How You Like That',
             singer: 'BlackPink',
-            path: '/assets/mp3/song1.mp3',
-            img: '/assets/img/song1.jpg',
+            path: '../assets/mp3/song1.mp3',
+            img: '../assets/img/song1.jpg',
         },
         {
             name: 'Kill This Love',
             singer: 'BlackPink',
-            path: '/assets/mp3/song2.mp3',
-            img: '/assets/img/song2.jfif',
+            path: '../assets/mp3/song2.mp3',
+            img: '../assets/img/song2.jfif',
         },
         {
             name: 'Ice Cream',
             singer: 'BlackPink',
-            path: '/assets/mp3/song3.mp3',
-            img: '/assets/img/song3.jpg',
+            path: '../assets/mp3/song3.mp3',
+            img: '../assets/img/song3.jpg',
         },
         {
             name: 'DDU-DU DDU-DU',
             singer: 'BlackPink',
-            path: '/assets/mp3/song4.mp3',
-            img: '/assets/img/song4.jpg'
+            path: '../assets/mp3/song4.mp3',
+            img: '../assets/img/song4.jpg'
         },
         {
             name: 'Boombayah',
             singer: 'BlackPink',
-            path: '/assets/mp3/song5.mp3',
-            img: '/assets/img/song5.png'
+            path: '../assets/mp3/song5.mp3',
+            img: '../assets/img/song5.png'
         },
         {
             name: 'Lalisa',
             singer: 'Lisa',
-            path: '/assets/mp3/song6.mp3',
-            img: '/assets/img/song6.jpeg'
+            path: '../assets/mp3/song6.mp3',
+            img: '../assets/img/song6.jpeg'
         },
         {
             name: 'Money',
             singer: 'Lisa',
-            path: '/assets/mp3/song7.mp3',
-            img: '/assets/img/song7.png'
+            path: '../assets/mp3/song7.mp3',
+            img: '../assets/img/song7.png'
         }
     ],
 
